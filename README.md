@@ -1,6 +1,7 @@
 # 💫 About Me:
 B.Tech[Information Technology]<br>Aspiring Data Analyst passoniate about solving real world problems and make better solutions <br>skilled in Java , Python, Excel, Power BI, SQL<br>Currently Building Real World projects <br>
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___syam06___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayyappa-ponnada-20075229b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayyappa.ponnada@sasi.ac.in) 
 
